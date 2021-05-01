@@ -11,7 +11,7 @@ export async function post(req, res) {
     try {
         const { email, password } = req.body;
 
-        const result = await fetch(`http://66.97.32.174:1337/auth/local`, {
+        const result = await fetch(`https://66.97.32.174:1337/auth/local`, {
             method: 'POST',
             headers,
             body: JSON.stringify({ identifier: email, password: password }),

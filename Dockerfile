@@ -1,7 +1,7 @@
 # build the sapper app
-FROM mhart/alpine-node:12 AS build
-
-WORKDIR /frontend
+FROM timbru31/node-alpine-git:12
+WORKDIR frontjarilla/frontend
 RUN npm install
 RUN npm run build
+EXPOSE 3000
 CMD ["node", "__sapper__/build"]

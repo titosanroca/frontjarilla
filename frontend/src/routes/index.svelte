@@ -33,15 +33,11 @@
 </style>
 
 <svelte:head>
-	<title>a minimal sapper blog</title>
+	<title>Editorial Jarilla</title>
 </svelte:head>
-<p>welcome to</p>
-<h1>the<b>blog.</b></h1>
 
-<figure>
-	<img alt='the birds on a line' src='bird-bg.png'>
-	<figcaption>where less is more</figcaption>
+
+<figure class=" xs:w-1/2 flex flex-wrap items-center justify-center">
+	<img alt='Editorial Jarilla' src='logo.svg'>
 </figure>
-
-<p><strong>we're minimal and that might seem boring, except you're actually paying attention.</strong></p>
-<p class="link"><a href="about">find out why</a>...</p>
+<p class="link text-base font-serif italic md:text-lg"><a href="about"> “ Escritores trabajando para Escritores ”</a></p>

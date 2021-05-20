@@ -9,11 +9,15 @@
         <li><a href="/">the<b>blog.</b></a></li>
 
         {#if $session.token}
-            <li><a class:active="{$page.path === '/profile'}"  href="profile">perfil</a></li>
-        {:else}
-            <li><a class:active="{$page.path === '/about'}" href="about">about</a></li>
-            <li><a class:active="{$page.path === '/login'}" href="login">login</a></li>
-            <li><a class:active="{$page.path === '/signup'}" href="signup">register</a></li>
+            <li><a class:active="{$page.path === '/profile'}"  href="profile">Perfil</a></li>
+        {:else}   
+            <li><a class:active="{$page.path === '/about'}" href="about">Nosotros</a></li>
+            <li><a class:active="{$page.path === '/collections'}" href="collections">Collecciones</a></li>
+            <li><a class:active="{$page.path === '/magazine'}" href="magazine">Revista</a></li>
+            <li><a class:active="{$page.path === '/contact'}" href="contact">Contacto</a></li>
+            <li><a class:active="{$page.path === '/login'}" href="login">Ingresar</a></li>
+            <!--<li><a class:active="{$page.path === '/login'}" href="login">login</a></li>
+            <li><a class:active="{$page.path === '/signup'}" href="signup">register</a></li> -->
         
         {/if}
     </ul>

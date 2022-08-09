@@ -17,6 +17,7 @@
             <li><a class:active="{$page.path === '/contact'}" href="contact">Contacto</a></li>
             <li><a class:active="{$page.path === '/login'}" href="login">Ingresar</a></li>
             <li><a class:active="{$page.path === '/images'}" href="images">Imágenes</a></li>
+            <li><a class:active="{$page.path === '/images'}" href="libros_anibal">Libros de Aníbal Arona</a></li>
             <!--<li><a class:active="{$page.path === '/login'}" href="login">login</a></li>
             <li><a class:active="{$page.path === '/signup'}" href="signup">register</a></li> -->
         

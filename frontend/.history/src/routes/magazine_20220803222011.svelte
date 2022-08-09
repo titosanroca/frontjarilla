@@ -6,13 +6,13 @@
         </div>
         <div class="flex flex-wrap sm:flex-row flex-col py-6 mb-12">
           <h1 class="sm:w-2/5 text-gray-900 font-medium title-font text-2xl mb-2 sm:mb-0">Catálogo de Revistas</h1>
-          <p class="sm:w-3/5 leading-relaxed text-base sm:pl-10 pl-0">En esta sección encontrarás revistas publicadas por Editorial Jarilla.</p>
+          <p class="sm:w-3/5 leading-relaxed text-base sm:pl-10 pl-0">Street art subway tile salvia four dollar toast bitters selfies quinoa yuccie synth meditation iPhone intelligentsia prism tofu. Viral gochujang bitters dreamcatcher.</p>
         </div>
       </div>
       <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
         <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
           <div class="rounded-lg h-64 overflow-hidden">
-            <img alt="content" class="object-cover object-center h-full w-full" src="https://dummyimage.com/1204x504">
+            <img alt="content" class="object-cover object-center h-full w-full" src="ficcionario.jpg">
           </div>
           <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Título</h2>
           <p class="text-base leading-relaxed mt-2">Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p>

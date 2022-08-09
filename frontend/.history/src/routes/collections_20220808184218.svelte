@@ -14,7 +14,7 @@
       <div class="flex flex-wrap">
         <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
           <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Aníbal Arona</h2>
-          <div class="shadow-2xl rounded-l-2 h-30 overflow-hidden">
+          <div class="shadow-2xl rounded-l-20 h-30 overflow-hidden">
           <img alt="content" class="object-cover object-center h-150 w-80" src="foto_anibal.jpg">
           </div>
           <br>

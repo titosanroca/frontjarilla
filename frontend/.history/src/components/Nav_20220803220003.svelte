@@ -12,7 +12,7 @@
             <li><a class:active="{$page.path === '/profile'}"  href="profile">Perfil</a></li>
         {:else}   
             <li><a class:active="{$page.path === '/about'}" href="about">Nosotros</a></li>
-            <li><a class:active="{$page.path === '/collections'}" href="collections">Librería Digital</a></li>
+            <li><a class:active="{$page.path === '/collections'}" href="collections">Colecciones</a></li>
             <li><a class:active="{$page.path === '/magazine'}" href="magazine">Revista</a></li>
             <li><a class:active="{$page.path === '/contact'}" href="contact">Contacto</a></li>
             <li><a class:active="{$page.path === '/login'}" href="login">Ingresar</a></li>

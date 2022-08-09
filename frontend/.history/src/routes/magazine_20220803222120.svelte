@@ -12,7 +12,7 @@
       <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
         <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
           <div class="rounded-lg h-64 overflow-hidden">
-            <img alt="content" class="object-cover object-center h-full w-full" src="https://dummyimage.com/1204x504">
+            <img alt="content" class="object-cover object-center h-full w-full" src="ficcionario.jpg">
           </div>
           <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Título</h2>
           <p class="text-base leading-relaxed mt-2">Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p>

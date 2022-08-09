@@ -13,12 +13,12 @@
         <div class="w-9/10 mx-auto">
       <div class="flex flex-wrap">
         <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
-          <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Aníbal Arona</h2>
-          <div class="shadow-2xl rounded-l-2 h-30 overflow-hidden">
+          <div class="shadow-2xl rounded-lg h-30 overflow-hidden">
           <img alt="content" class="object-cover object-center h-150 w-80" src="foto_anibal.jpg">
           </div>
-          <br>
+          <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Aníbal Arona</h2>
           <p class="leading-relaxed text-base mb-4">“ Y todo porque creo que el misterio de la ficción alimenta el cuerpo de la realidad.”</p>
+          <p class="leading-relaxed text-base mb-4">Aníbal Arona</p>
           <a class="text-red-500 inline-flex items-center" href="librosanibal">Sus libros     </a>
         </div>
         <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
